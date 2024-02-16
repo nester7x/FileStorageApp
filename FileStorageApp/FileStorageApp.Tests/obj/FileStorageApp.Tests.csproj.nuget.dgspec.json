@@ -1,0 +1,174 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/andrijnesterenko/Desktop/dev azure project/FileStorageApp/FileStorageApp.Tests/FileStorageApp.Tests.csproj": {}
+  },
+  "projects": {
+    "/Users/andrijnesterenko/Desktop/dev azure project/FileStorageApp/FileStorageApp.Tests/FileStorageApp.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/andrijnesterenko/Desktop/dev azure project/FileStorageApp/FileStorageApp.Tests/FileStorageApp.Tests.csproj",
+        "projectName": "FileStorageApp.Tests",
+        "projectPath": "/Users/andrijnesterenko/Desktop/dev azure project/FileStorageApp/FileStorageApp.Tests/FileStorageApp.Tests.csproj",
+        "packagesPath": "/Users/andrijnesterenko/.nuget/packages/",
+        "outputPath": "/Users/andrijnesterenko/Desktop/dev azure project/FileStorageApp/FileStorageApp.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/andrijnesterenko/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/andrijnesterenko/Desktop/dev azure project/FileStorageApp/FileStorageApp/FileStorageApp.csproj": {
+                "projectPath": "/Users/andrijnesterenko/Desktop/dev azure project/FileStorageApp/FileStorageApp/FileStorageApp.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.5.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.70, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.6.1, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.4.2, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.312/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/andrijnesterenko/Desktop/dev azure project/FileStorageApp/FileStorageApp/FileStorageApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/andrijnesterenko/Desktop/dev azure project/FileStorageApp/FileStorageApp/FileStorageApp.csproj",
+        "projectName": "FileStorageApp",
+        "projectPath": "/Users/andrijnesterenko/Desktop/dev azure project/FileStorageApp/FileStorageApp/FileStorageApp.csproj",
+        "packagesPath": "/Users/andrijnesterenko/.nuget/packages/",
+        "outputPath": "/Users/andrijnesterenko/Desktop/dev azure project/FileStorageApp/FileStorageApp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/andrijnesterenko/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/sdk/7.0.312/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MailKit": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "Microsoft.Azure.WebJobs.Extensions.Storage": {
+              "target": "Package",
+              "version": "[5.2.2, )"
+            },
+            "MimeKit": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[110.2.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "WindowsAzure.Storage": {
+              "target": "Package",
+              "version": "[9.3.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.312/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

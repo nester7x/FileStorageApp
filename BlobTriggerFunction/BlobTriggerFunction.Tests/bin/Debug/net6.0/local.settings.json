@@ -1,0 +1,7 @@
+{
+    "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=dmytrenko;AccountKey=FxzxrDCcP9A4cC5LF59Cc8WD4GsPeBcLCh21hmF/TOHO9Tl2QyOA5i0EdQQ6HvEIzJCx9Om5kLcO+AStwcdbXQ==;EndpointSuffix=core.windows.net", // paste connection string
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet"
+  }
+}

@@ -1,0 +1,236 @@
+G:/repos/FileStorageApp/FileStorageApp/bin/Debug/net6.0/appsettings.Development.json
+G:/repos/FileStorageApp/FileStorageApp/bin/Debug/net6.0/appsettings.json
+G:/repos/FileStorageApp/FileStorageApp/bin/Debug/net6.0/FileStorageApp.exe
+G:/repos/FileStorageApp/FileStorageApp/bin/Debug/net6.0/FileStorageApp.deps.json
+G:/repos/FileStorageApp/FileStorageApp/bin/Debug/net6.0/FileStorageApp.runtimeconfig.json
+G:/repos/FileStorageApp/FileStorageApp/bin/Debug/net6.0/FileStorageApp.dll
+G:/repos/FileStorageApp/FileStorageApp/bin/Debug/net6.0/FileStorageApp.pdb
+G:/repos/FileStorageApp/FileStorageApp/bin/Debug/net6.0/Azure.Core.dll
+G:/repos/FileStorageApp/FileStorageApp/bin/Debug/net6.0/Azure.Identity.dll
+G:/repos/FileStorageApp/FileStorageApp/bin/Debug/net6.0/Azure.Storage.Blobs.dll
+G:/repos/FileStorageApp/FileStorageApp/bin/Debug/net6.0/Azure.Storage.Common.dll
+G:/repos/FileStorageApp/FileStorageApp/bin/Debug/net6.0/Azure.Storage.Queues.dll
+G:/repos/FileStorageApp/FileStorageApp/bin/Debug/net6.0/Microsoft.Azure.WebJobs.Host.dll
+G:/repos/FileStorageApp/FileStorageApp/bin/Debug/net6.0/Microsoft.Azure.WebJobs.dll
+G:/repos/FileStorageApp/FileStorageApp/bin/Debug/net6.0/Microsoft.Azure.WebJobs.Extensions.Storage.Blobs.dll
+G:/repos/FileStorageApp/FileStorageApp/bin/Debug/net6.0/Microsoft.Azure.WebJobs.Extensions.Storage.Queues.dll
+G:/repos/FileStorageApp/FileStorageApp/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+G:/repos/FileStorageApp/FileStorageApp/bin/Debug/net6.0/Microsoft.Extensions.Azure.dll
+G:/repos/FileStorageApp/FileStorageApp/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+G:/repos/FileStorageApp/FileStorageApp/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+G:/repos/FileStorageApp/FileStorageApp/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+G:/repos/FileStorageApp/FileStorageApp/bin/Debug/net6.0/Microsoft.OpenApi.dll
+G:/repos/FileStorageApp/FileStorageApp/bin/Debug/net6.0/Newtonsoft.Json.dll
+G:/repos/FileStorageApp/FileStorageApp/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+G:/repos/FileStorageApp/FileStorageApp/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+G:/repos/FileStorageApp/FileStorageApp/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+G:/repos/FileStorageApp/FileStorageApp/bin/Debug/net6.0/System.Diagnostics.DiagnosticSource.dll
+G:/repos/FileStorageApp/FileStorageApp/bin/Debug/net6.0/System.IO.Hashing.dll
+G:/repos/FileStorageApp/FileStorageApp/bin/Debug/net6.0/System.Memory.Data.dll
+G:/repos/FileStorageApp/FileStorageApp/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+G:/repos/FileStorageApp/FileStorageApp/bin/Debug/net6.0/Microsoft.WindowsAzure.Storage.dll
+G:/repos/FileStorageApp/FileStorageApp/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+G:/repos/FileStorageApp/FileStorageApp/obj/Debug/net6.0/FileStorageApp.csproj.AssemblyReference.cache
+G:/repos/FileStorageApp/FileStorageApp/obj/Debug/net6.0/FileStorageApp.GeneratedMSBuildEditorConfig.editorconfig
+G:/repos/FileStorageApp/FileStorageApp/obj/Debug/net6.0/FileStorageApp.AssemblyInfoInputs.cache
+G:/repos/FileStorageApp/FileStorageApp/obj/Debug/net6.0/FileStorageApp.AssemblyInfo.cs
+G:/repos/FileStorageApp/FileStorageApp/obj/Debug/net6.0/FileStorageApp.csproj.CoreCompileInputs.cache
+G:/repos/FileStorageApp/FileStorageApp/obj/Debug/net6.0/FileStorageApp.MvcApplicationPartsAssemblyInfo.cs
+G:/repos/FileStorageApp/FileStorageApp/obj/Debug/net6.0/FileStorageApp.MvcApplicationPartsAssemblyInfo.cache
+G:/repos/FileStorageApp/FileStorageApp/obj/Debug/net6.0/staticwebassets/msbuild.FileStorageApp.Microsoft.AspNetCore.StaticWebAssets.props
+G:/repos/FileStorageApp/FileStorageApp/obj/Debug/net6.0/staticwebassets/msbuild.build.FileStorageApp.props
+G:/repos/FileStorageApp/FileStorageApp/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.FileStorageApp.props
+G:/repos/FileStorageApp/FileStorageApp/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.FileStorageApp.props
+G:/repos/FileStorageApp/FileStorageApp/obj/Debug/net6.0/staticwebassets.pack.json
+G:/repos/FileStorageApp/FileStorageApp/obj/Debug/net6.0/staticwebassets.build.json
+G:/repos/FileStorageApp/FileStorageApp/obj/Debug/net6.0/staticwebassets.development.json
+G:/repos/FileStorageApp/FileStorageApp/obj/Debug/net6.0/scopedcss/bundle/FileStorageApp.styles.css
+G:/repos/FileStorageApp/FileStorageApp/obj/Debug/net6.0/FileStorageApp.csproj.CopyComplete
+G:/repos/FileStorageApp/FileStorageApp/obj/Debug/net6.0/FileStorageApp.dll
+G:/repos/FileStorageApp/FileStorageApp/obj/Debug/net6.0/refint/FileStorageApp.dll
+G:/repos/FileStorageApp/FileStorageApp/obj/Debug/net6.0/FileStorageApp.pdb
+G:/repos/FileStorageApp/FileStorageApp/obj/Debug/net6.0/FileStorageApp.genruntimeconfig.cache
+G:/repos/FileStorageApp/FileStorageApp/obj/Debug/net6.0/ref/FileStorageApp.dll
+/Users/andrijnesterenko/Projects/FileStorageApp/FileStorageApp/bin/Debug/net6.0/appsettings.Development.json
+/Users/andrijnesterenko/Projects/FileStorageApp/FileStorageApp/bin/Debug/net6.0/appsettings.json
+/Users/andrijnesterenko/Projects/FileStorageApp/FileStorageApp/bin/Debug/net6.0/FileStorageApp
+/Users/andrijnesterenko/Projects/FileStorageApp/FileStorageApp/bin/Debug/net6.0/FileStorageApp.deps.json
+/Users/andrijnesterenko/Projects/FileStorageApp/FileStorageApp/bin/Debug/net6.0/FileStorageApp.runtimeconfig.json
+/Users/andrijnesterenko/Projects/FileStorageApp/FileStorageApp/bin/Debug/net6.0/FileStorageApp.dll
+/Users/andrijnesterenko/Projects/FileStorageApp/FileStorageApp/bin/Debug/net6.0/FileStorageApp.pdb
+/Users/andrijnesterenko/Projects/FileStorageApp/FileStorageApp/bin/Debug/net6.0/Azure.Core.dll
+/Users/andrijnesterenko/Projects/FileStorageApp/FileStorageApp/bin/Debug/net6.0/Azure.Identity.dll
+/Users/andrijnesterenko/Projects/FileStorageApp/FileStorageApp/bin/Debug/net6.0/Azure.Storage.Blobs.dll
+/Users/andrijnesterenko/Projects/FileStorageApp/FileStorageApp/bin/Debug/net6.0/Azure.Storage.Common.dll
+/Users/andrijnesterenko/Projects/FileStorageApp/FileStorageApp/bin/Debug/net6.0/Azure.Storage.Queues.dll
+/Users/andrijnesterenko/Projects/FileStorageApp/FileStorageApp/bin/Debug/net6.0/Microsoft.Azure.WebJobs.Host.dll
+/Users/andrijnesterenko/Projects/FileStorageApp/FileStorageApp/bin/Debug/net6.0/Microsoft.Azure.WebJobs.dll
+/Users/andrijnesterenko/Projects/FileStorageApp/FileStorageApp/bin/Debug/net6.0/Microsoft.Azure.WebJobs.Extensions.Storage.Blobs.dll
+/Users/andrijnesterenko/Projects/FileStorageApp/FileStorageApp/bin/Debug/net6.0/Microsoft.Azure.WebJobs.Extensions.Storage.Queues.dll
+/Users/andrijnesterenko/Projects/FileStorageApp/FileStorageApp/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/andrijnesterenko/Projects/FileStorageApp/FileStorageApp/bin/Debug/net6.0/Microsoft.Extensions.Azure.dll
+/Users/andrijnesterenko/Projects/FileStorageApp/FileStorageApp/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/andrijnesterenko/Projects/FileStorageApp/FileStorageApp/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/andrijnesterenko/Projects/FileStorageApp/FileStorageApp/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/andrijnesterenko/Projects/FileStorageApp/FileStorageApp/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/andrijnesterenko/Projects/FileStorageApp/FileStorageApp/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/andrijnesterenko/Projects/FileStorageApp/FileStorageApp/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/andrijnesterenko/Projects/FileStorageApp/FileStorageApp/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/andrijnesterenko/Projects/FileStorageApp/FileStorageApp/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/andrijnesterenko/Projects/FileStorageApp/FileStorageApp/bin/Debug/net6.0/System.Diagnostics.DiagnosticSource.dll
+/Users/andrijnesterenko/Projects/FileStorageApp/FileStorageApp/bin/Debug/net6.0/System.IO.Hashing.dll
+/Users/andrijnesterenko/Projects/FileStorageApp/FileStorageApp/bin/Debug/net6.0/System.Memory.Data.dll
+/Users/andrijnesterenko/Projects/FileStorageApp/FileStorageApp/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/andrijnesterenko/Projects/FileStorageApp/FileStorageApp/bin/Debug/net6.0/Microsoft.WindowsAzure.Storage.dll
+/Users/andrijnesterenko/Projects/FileStorageApp/FileStorageApp/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/andrijnesterenko/Projects/FileStorageApp/FileStorageApp/obj/Debug/net6.0/FileStorageApp.csproj.AssemblyReference.cache
+/Users/andrijnesterenko/Projects/FileStorageApp/FileStorageApp/obj/Debug/net6.0/FileStorageApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrijnesterenko/Projects/FileStorageApp/FileStorageApp/obj/Debug/net6.0/FileStorageApp.AssemblyInfoInputs.cache
+/Users/andrijnesterenko/Projects/FileStorageApp/FileStorageApp/obj/Debug/net6.0/FileStorageApp.AssemblyInfo.cs
+/Users/andrijnesterenko/Projects/FileStorageApp/FileStorageApp/obj/Debug/net6.0/FileStorageApp.csproj.CoreCompileInputs.cache
+/Users/andrijnesterenko/Projects/FileStorageApp/FileStorageApp/obj/Debug/net6.0/FileStorageApp.MvcApplicationPartsAssemblyInfo.cs
+/Users/andrijnesterenko/Projects/FileStorageApp/FileStorageApp/obj/Debug/net6.0/FileStorageApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/andrijnesterenko/Projects/FileStorageApp/FileStorageApp/obj/Debug/net6.0/staticwebassets/msbuild.FileStorageApp.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/andrijnesterenko/Projects/FileStorageApp/FileStorageApp/obj/Debug/net6.0/staticwebassets/msbuild.build.FileStorageApp.props
+/Users/andrijnesterenko/Projects/FileStorageApp/FileStorageApp/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.FileStorageApp.props
+/Users/andrijnesterenko/Projects/FileStorageApp/FileStorageApp/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.FileStorageApp.props
+/Users/andrijnesterenko/Projects/FileStorageApp/FileStorageApp/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/andrijnesterenko/Projects/FileStorageApp/FileStorageApp/obj/Debug/net6.0/staticwebassets.build.json
+/Users/andrijnesterenko/Projects/FileStorageApp/FileStorageApp/obj/Debug/net6.0/staticwebassets.development.json
+/Users/andrijnesterenko/Projects/FileStorageApp/FileStorageApp/obj/Debug/net6.0/scopedcss/bundle/FileStorageApp.styles.css
+/Users/andrijnesterenko/Projects/FileStorageApp/FileStorageApp/obj/Debug/net6.0/FileStorageApp.csproj.CopyComplete
+/Users/andrijnesterenko/Projects/FileStorageApp/FileStorageApp/obj/Debug/net6.0/FileStorageApp.dll
+/Users/andrijnesterenko/Projects/FileStorageApp/FileStorageApp/obj/Debug/net6.0/refint/FileStorageApp.dll
+/Users/andrijnesterenko/Projects/FileStorageApp/FileStorageApp/obj/Debug/net6.0/FileStorageApp.pdb
+/Users/andrijnesterenko/Projects/FileStorageApp/FileStorageApp/obj/Debug/net6.0/FileStorageApp.genruntimeconfig.cache
+/Users/andrijnesterenko/Projects/FileStorageApp/FileStorageApp/obj/Debug/net6.0/ref/FileStorageApp.dll
+C:/Users/Admin/Downloads/FileStorageApp/FileStorageApp/FileStorageApp/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/Admin/Downloads/FileStorageApp/FileStorageApp/FileStorageApp/bin/Debug/net6.0/appsettings.json
+C:/Users/Admin/Downloads/FileStorageApp/FileStorageApp/FileStorageApp/bin/Debug/net6.0/FileStorageApp.exe
+C:/Users/Admin/Downloads/FileStorageApp/FileStorageApp/FileStorageApp/bin/Debug/net6.0/FileStorageApp.deps.json
+C:/Users/Admin/Downloads/FileStorageApp/FileStorageApp/FileStorageApp/bin/Debug/net6.0/FileStorageApp.runtimeconfig.json
+C:/Users/Admin/Downloads/FileStorageApp/FileStorageApp/FileStorageApp/bin/Debug/net6.0/FileStorageApp.dll
+C:/Users/Admin/Downloads/FileStorageApp/FileStorageApp/FileStorageApp/bin/Debug/net6.0/FileStorageApp.pdb
+C:/Users/Admin/Downloads/FileStorageApp/FileStorageApp/FileStorageApp/bin/Debug/net6.0/Azure.Core.dll
+C:/Users/Admin/Downloads/FileStorageApp/FileStorageApp/FileStorageApp/bin/Debug/net6.0/Azure.Identity.dll
+C:/Users/Admin/Downloads/FileStorageApp/FileStorageApp/FileStorageApp/bin/Debug/net6.0/Azure.Storage.Blobs.dll
+C:/Users/Admin/Downloads/FileStorageApp/FileStorageApp/FileStorageApp/bin/Debug/net6.0/Azure.Storage.Common.dll
+C:/Users/Admin/Downloads/FileStorageApp/FileStorageApp/FileStorageApp/bin/Debug/net6.0/Azure.Storage.Queues.dll
+C:/Users/Admin/Downloads/FileStorageApp/FileStorageApp/FileStorageApp/bin/Debug/net6.0/Microsoft.Azure.WebJobs.Host.dll
+C:/Users/Admin/Downloads/FileStorageApp/FileStorageApp/FileStorageApp/bin/Debug/net6.0/Microsoft.Azure.WebJobs.dll
+C:/Users/Admin/Downloads/FileStorageApp/FileStorageApp/FileStorageApp/bin/Debug/net6.0/Microsoft.Azure.WebJobs.Extensions.Storage.Blobs.dll
+C:/Users/Admin/Downloads/FileStorageApp/FileStorageApp/FileStorageApp/bin/Debug/net6.0/Microsoft.Azure.WebJobs.Extensions.Storage.Queues.dll
+C:/Users/Admin/Downloads/FileStorageApp/FileStorageApp/FileStorageApp/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/Admin/Downloads/FileStorageApp/FileStorageApp/FileStorageApp/bin/Debug/net6.0/Microsoft.Extensions.Azure.dll
+C:/Users/Admin/Downloads/FileStorageApp/FileStorageApp/FileStorageApp/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+C:/Users/Admin/Downloads/FileStorageApp/FileStorageApp/FileStorageApp/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+C:/Users/Admin/Downloads/FileStorageApp/FileStorageApp/FileStorageApp/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/Admin/Downloads/FileStorageApp/FileStorageApp/FileStorageApp/bin/Debug/net6.0/Microsoft.OpenApi.dll
+C:/Users/Admin/Downloads/FileStorageApp/FileStorageApp/FileStorageApp/bin/Debug/net6.0/Newtonsoft.Json.dll
+C:/Users/Admin/Downloads/FileStorageApp/FileStorageApp/FileStorageApp/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Admin/Downloads/FileStorageApp/FileStorageApp/FileStorageApp/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Admin/Downloads/FileStorageApp/FileStorageApp/FileStorageApp/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Admin/Downloads/FileStorageApp/FileStorageApp/FileStorageApp/bin/Debug/net6.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/Admin/Downloads/FileStorageApp/FileStorageApp/FileStorageApp/bin/Debug/net6.0/System.IO.Hashing.dll
+C:/Users/Admin/Downloads/FileStorageApp/FileStorageApp/FileStorageApp/bin/Debug/net6.0/System.Memory.Data.dll
+C:/Users/Admin/Downloads/FileStorageApp/FileStorageApp/FileStorageApp/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Admin/Downloads/FileStorageApp/FileStorageApp/FileStorageApp/bin/Debug/net6.0/Microsoft.WindowsAzure.Storage.dll
+C:/Users/Admin/Downloads/FileStorageApp/FileStorageApp/FileStorageApp/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Admin/Downloads/FileStorageApp/FileStorageApp/FileStorageApp/obj/Debug/net6.0/FileStorageApp.csproj.AssemblyReference.cache
+C:/Users/Admin/Downloads/FileStorageApp/FileStorageApp/FileStorageApp/obj/Debug/net6.0/FileStorageApp.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Admin/Downloads/FileStorageApp/FileStorageApp/FileStorageApp/obj/Debug/net6.0/FileStorageApp.AssemblyInfoInputs.cache
+C:/Users/Admin/Downloads/FileStorageApp/FileStorageApp/FileStorageApp/obj/Debug/net6.0/FileStorageApp.AssemblyInfo.cs
+C:/Users/Admin/Downloads/FileStorageApp/FileStorageApp/FileStorageApp/obj/Debug/net6.0/FileStorageApp.csproj.CoreCompileInputs.cache
+C:/Users/Admin/Downloads/FileStorageApp/FileStorageApp/FileStorageApp/obj/Debug/net6.0/FileStorageApp.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Admin/Downloads/FileStorageApp/FileStorageApp/FileStorageApp/obj/Debug/net6.0/FileStorageApp.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Admin/Downloads/FileStorageApp/FileStorageApp/FileStorageApp/obj/Debug/net6.0/staticwebassets/msbuild.FileStorageApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Admin/Downloads/FileStorageApp/FileStorageApp/FileStorageApp/obj/Debug/net6.0/staticwebassets/msbuild.build.FileStorageApp.props
+C:/Users/Admin/Downloads/FileStorageApp/FileStorageApp/FileStorageApp/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.FileStorageApp.props
+C:/Users/Admin/Downloads/FileStorageApp/FileStorageApp/FileStorageApp/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.FileStorageApp.props
+C:/Users/Admin/Downloads/FileStorageApp/FileStorageApp/FileStorageApp/obj/Debug/net6.0/staticwebassets.pack.json
+C:/Users/Admin/Downloads/FileStorageApp/FileStorageApp/FileStorageApp/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/Admin/Downloads/FileStorageApp/FileStorageApp/FileStorageApp/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/Admin/Downloads/FileStorageApp/FileStorageApp/FileStorageApp/obj/Debug/net6.0/scopedcss/bundle/FileStorageApp.styles.css
+C:/Users/Admin/Downloads/FileStorageApp/FileStorageApp/FileStorageApp/obj/Debug/net6.0/FileStorageApp.csproj.CopyComplete
+C:/Users/Admin/Downloads/FileStorageApp/FileStorageApp/FileStorageApp/obj/Debug/net6.0/FileStorageApp.dll
+C:/Users/Admin/Downloads/FileStorageApp/FileStorageApp/FileStorageApp/obj/Debug/net6.0/refint/FileStorageApp.dll
+C:/Users/Admin/Downloads/FileStorageApp/FileStorageApp/FileStorageApp/obj/Debug/net6.0/FileStorageApp.pdb
+C:/Users/Admin/Downloads/FileStorageApp/FileStorageApp/FileStorageApp/obj/Debug/net6.0/FileStorageApp.genruntimeconfig.cache
+C:/Users/Admin/Downloads/FileStorageApp/FileStorageApp/FileStorageApp/obj/Debug/net6.0/ref/FileStorageApp.dll
+C:/Users/Admin/Downloads/FileStorageApp/FileStorageApp/FileStorageApp/bin/Debug/net6.0/RestSharp.dll
+C:/Users/Admin/Downloads/FileStorageApp/FileStorageApp/FileStorageApp/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+C:/Users/Admin/Downloads/FileStorageApp/FileStorageApp/FileStorageApp/bin/Debug/net6.0/System.Text.Json.dll
+C:/Users/Admin/Downloads/FileStorageApp/FileStorageApp/FileStorageApp/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+C:/Users/Admin/Downloads/FileStorageApp/FileStorageApp/FileStorageApp/bin/Debug/net6.0/BouncyCastle.Cryptography.dll
+C:/Users/Admin/Downloads/FileStorageApp/FileStorageApp/FileStorageApp/bin/Debug/net6.0/MailKit.dll
+C:/Users/Admin/Downloads/FileStorageApp/FileStorageApp/FileStorageApp/bin/Debug/net6.0/MimeKit.dll
+C:/Users/Admin/Downloads/FileStorageApp/FileStorageApp/FileStorageApp/bin/Debug/net6.0/System.Formats.Asn1.dll
+C:/Users/Admin/Downloads/FileStorageApp/FileStorageApp/FileStorageApp/bin/Debug/net6.0/System.Security.Cryptography.Pkcs.dll
+C:/Users/Admin/Downloads/FileStorageApp/FileStorageApp/FileStorageApp/bin/Debug/net6.0/System.Text.Encoding.CodePages.dll
+C:/Users/Admin/Downloads/FileStorageApp/FileStorageApp/FileStorageApp/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Security.Cryptography.Pkcs.dll
+C:/Users/Admin/Downloads/FileStorageApp/FileStorageApp/FileStorageApp/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Text.Encoding.CodePages.dll
+/Users/andrijnesterenko/Projects/dev azure project/FileStorageApp/FileStorageApp/bin/Debug/net6.0/appsettings.Development.json
+/Users/andrijnesterenko/Projects/dev azure project/FileStorageApp/FileStorageApp/bin/Debug/net6.0/appsettings.json
+/Users/andrijnesterenko/Projects/dev azure project/FileStorageApp/FileStorageApp/bin/Debug/net6.0/FileStorageApp
+/Users/andrijnesterenko/Projects/dev azure project/FileStorageApp/FileStorageApp/bin/Debug/net6.0/FileStorageApp.deps.json
+/Users/andrijnesterenko/Projects/dev azure project/FileStorageApp/FileStorageApp/bin/Debug/net6.0/FileStorageApp.runtimeconfig.json
+/Users/andrijnesterenko/Projects/dev azure project/FileStorageApp/FileStorageApp/bin/Debug/net6.0/FileStorageApp.dll
+/Users/andrijnesterenko/Projects/dev azure project/FileStorageApp/FileStorageApp/bin/Debug/net6.0/FileStorageApp.pdb
+/Users/andrijnesterenko/Projects/dev azure project/FileStorageApp/FileStorageApp/bin/Debug/net6.0/Azure.Core.dll
+/Users/andrijnesterenko/Projects/dev azure project/FileStorageApp/FileStorageApp/bin/Debug/net6.0/Azure.Identity.dll
+/Users/andrijnesterenko/Projects/dev azure project/FileStorageApp/FileStorageApp/bin/Debug/net6.0/Azure.Storage.Blobs.dll
+/Users/andrijnesterenko/Projects/dev azure project/FileStorageApp/FileStorageApp/bin/Debug/net6.0/Azure.Storage.Common.dll
+/Users/andrijnesterenko/Projects/dev azure project/FileStorageApp/FileStorageApp/bin/Debug/net6.0/Azure.Storage.Queues.dll
+/Users/andrijnesterenko/Projects/dev azure project/FileStorageApp/FileStorageApp/bin/Debug/net6.0/BouncyCastle.Cryptography.dll
+/Users/andrijnesterenko/Projects/dev azure project/FileStorageApp/FileStorageApp/bin/Debug/net6.0/MailKit.dll
+/Users/andrijnesterenko/Projects/dev azure project/FileStorageApp/FileStorageApp/bin/Debug/net6.0/Microsoft.Azure.WebJobs.Host.dll
+/Users/andrijnesterenko/Projects/dev azure project/FileStorageApp/FileStorageApp/bin/Debug/net6.0/Microsoft.Azure.WebJobs.dll
+/Users/andrijnesterenko/Projects/dev azure project/FileStorageApp/FileStorageApp/bin/Debug/net6.0/Microsoft.Azure.WebJobs.Extensions.Storage.Blobs.dll
+/Users/andrijnesterenko/Projects/dev azure project/FileStorageApp/FileStorageApp/bin/Debug/net6.0/Microsoft.Azure.WebJobs.Extensions.Storage.Queues.dll
+/Users/andrijnesterenko/Projects/dev azure project/FileStorageApp/FileStorageApp/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/andrijnesterenko/Projects/dev azure project/FileStorageApp/FileStorageApp/bin/Debug/net6.0/Microsoft.Extensions.Azure.dll
+/Users/andrijnesterenko/Projects/dev azure project/FileStorageApp/FileStorageApp/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/andrijnesterenko/Projects/dev azure project/FileStorageApp/FileStorageApp/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/andrijnesterenko/Projects/dev azure project/FileStorageApp/FileStorageApp/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/andrijnesterenko/Projects/dev azure project/FileStorageApp/FileStorageApp/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/andrijnesterenko/Projects/dev azure project/FileStorageApp/FileStorageApp/bin/Debug/net6.0/MimeKit.dll
+/Users/andrijnesterenko/Projects/dev azure project/FileStorageApp/FileStorageApp/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/andrijnesterenko/Projects/dev azure project/FileStorageApp/FileStorageApp/bin/Debug/net6.0/RestSharp.dll
+/Users/andrijnesterenko/Projects/dev azure project/FileStorageApp/FileStorageApp/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/andrijnesterenko/Projects/dev azure project/FileStorageApp/FileStorageApp/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/andrijnesterenko/Projects/dev azure project/FileStorageApp/FileStorageApp/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/andrijnesterenko/Projects/dev azure project/FileStorageApp/FileStorageApp/bin/Debug/net6.0/System.Diagnostics.DiagnosticSource.dll
+/Users/andrijnesterenko/Projects/dev azure project/FileStorageApp/FileStorageApp/bin/Debug/net6.0/System.Formats.Asn1.dll
+/Users/andrijnesterenko/Projects/dev azure project/FileStorageApp/FileStorageApp/bin/Debug/net6.0/System.IO.Hashing.dll
+/Users/andrijnesterenko/Projects/dev azure project/FileStorageApp/FileStorageApp/bin/Debug/net6.0/System.Memory.Data.dll
+/Users/andrijnesterenko/Projects/dev azure project/FileStorageApp/FileStorageApp/bin/Debug/net6.0/System.Security.Cryptography.Pkcs.dll
+/Users/andrijnesterenko/Projects/dev azure project/FileStorageApp/FileStorageApp/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/andrijnesterenko/Projects/dev azure project/FileStorageApp/FileStorageApp/bin/Debug/net6.0/System.Text.Encoding.CodePages.dll
+/Users/andrijnesterenko/Projects/dev azure project/FileStorageApp/FileStorageApp/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+/Users/andrijnesterenko/Projects/dev azure project/FileStorageApp/FileStorageApp/bin/Debug/net6.0/System.Text.Json.dll
+/Users/andrijnesterenko/Projects/dev azure project/FileStorageApp/FileStorageApp/bin/Debug/net6.0/Microsoft.WindowsAzure.Storage.dll
+/Users/andrijnesterenko/Projects/dev azure project/FileStorageApp/FileStorageApp/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Security.Cryptography.Pkcs.dll
+/Users/andrijnesterenko/Projects/dev azure project/FileStorageApp/FileStorageApp/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/andrijnesterenko/Projects/dev azure project/FileStorageApp/FileStorageApp/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Text.Encoding.CodePages.dll
+/Users/andrijnesterenko/Projects/dev azure project/FileStorageApp/FileStorageApp/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+/Users/andrijnesterenko/Projects/dev azure project/FileStorageApp/FileStorageApp/obj/Debug/net6.0/FileStorageApp.csproj.AssemblyReference.cache
+/Users/andrijnesterenko/Projects/dev azure project/FileStorageApp/FileStorageApp/obj/Debug/net6.0/FileStorageApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrijnesterenko/Projects/dev azure project/FileStorageApp/FileStorageApp/obj/Debug/net6.0/FileStorageApp.AssemblyInfoInputs.cache
+/Users/andrijnesterenko/Projects/dev azure project/FileStorageApp/FileStorageApp/obj/Debug/net6.0/FileStorageApp.AssemblyInfo.cs
+/Users/andrijnesterenko/Projects/dev azure project/FileStorageApp/FileStorageApp/obj/Debug/net6.0/FileStorageApp.csproj.CoreCompileInputs.cache
+/Users/andrijnesterenko/Projects/dev azure project/FileStorageApp/FileStorageApp/obj/Debug/net6.0/FileStorageApp.MvcApplicationPartsAssemblyInfo.cs
+/Users/andrijnesterenko/Projects/dev azure project/FileStorageApp/FileStorageApp/obj/Debug/net6.0/FileStorageApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/andrijnesterenko/Projects/dev azure project/FileStorageApp/FileStorageApp/obj/Debug/net6.0/staticwebassets/msbuild.FileStorageApp.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/andrijnesterenko/Projects/dev azure project/FileStorageApp/FileStorageApp/obj/Debug/net6.0/staticwebassets/msbuild.build.FileStorageApp.props
+/Users/andrijnesterenko/Projects/dev azure project/FileStorageApp/FileStorageApp/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.FileStorageApp.props
+/Users/andrijnesterenko/Projects/dev azure project/FileStorageApp/FileStorageApp/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.FileStorageApp.props
+/Users/andrijnesterenko/Projects/dev azure project/FileStorageApp/FileStorageApp/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/andrijnesterenko/Projects/dev azure project/FileStorageApp/FileStorageApp/obj/Debug/net6.0/staticwebassets.build.json
+/Users/andrijnesterenko/Projects/dev azure project/FileStorageApp/FileStorageApp/obj/Debug/net6.0/staticwebassets.development.json
+/Users/andrijnesterenko/Projects/dev azure project/FileStorageApp/FileStorageApp/obj/Debug/net6.0/scopedcss/bundle/FileStorageApp.styles.css
+/Users/andrijnesterenko/Projects/dev azure project/FileStorageApp/FileStorageApp/obj/Debug/net6.0/FileStorageApp.csproj.CopyComplete
+/Users/andrijnesterenko/Projects/dev azure project/FileStorageApp/FileStorageApp/obj/Debug/net6.0/FileStorageApp.dll
+/Users/andrijnesterenko/Projects/dev azure project/FileStorageApp/FileStorageApp/obj/Debug/net6.0/refint/FileStorageApp.dll
+/Users/andrijnesterenko/Projects/dev azure project/FileStorageApp/FileStorageApp/obj/Debug/net6.0/FileStorageApp.pdb
+/Users/andrijnesterenko/Projects/dev azure project/FileStorageApp/FileStorageApp/obj/Debug/net6.0/FileStorageApp.genruntimeconfig.cache
+/Users/andrijnesterenko/Projects/dev azure project/FileStorageApp/FileStorageApp/obj/Debug/net6.0/ref/FileStorageApp.dll

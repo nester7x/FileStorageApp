@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "CjbB5bwR11uZoD1CZCvKBj0Z1rqHMZezN5I6kveKVGQ=",
+  "Source": "FileStorageApp",
+  "BasePath": "_content/FileStorageApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

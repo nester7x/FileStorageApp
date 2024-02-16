@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{FE3822F2-9873-46B3-9D9E-9ECE177E55BD}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.BlobTriggerFunction PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BlobTriggerFunction/Properties/serviceDependencies.json">
+    <Files>
+      <File FileName="BlobTriggerFunction/BlobTrigger.cs" Line="17" Column="133" />
+      <File FileName="BlobTriggerFunction/local.settings.json" Line="4" Column="220" />
+      <File FileName="BlobTriggerFunction/host.json" Line="1" Column="1" />
+      <File FileName="BlobTriggerFunction/Properties/serviceDependencies.local.json" Line="1" Column="1" />
+      <File FileName="BlobTriggerFunction/Properties/serviceDependencies.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BlobTriggerFunction" expanded="True">
+            <Node name="BlobTriggerFunction" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Properties" expanded="True">
+                <Node name="serviceDependencies.json" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
